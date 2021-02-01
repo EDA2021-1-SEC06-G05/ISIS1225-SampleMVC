@@ -1,6 +1,6 @@
-Andrés Camilo Llanos-ac.llanos@uniandes.edu.co-201716506
+Andrés Camilo Llanos - ac.llanos@uniandes.edu.co - 201716506
 
-David Santiago Lopez Velez-ds.lopezv@uniandes.edu.co-201814056
+David Santiago Lopez Velez - ds.lopezv@uniandes.edu.co - 201814056
 
 #ISIS1225 - Estructura de un proyecto
 
